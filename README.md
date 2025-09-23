@@ -8,7 +8,8 @@
 <br> 
 
 <h2> Pendahuluan</h2>
-<p> </p><br> 
+<p>Pendahuluan dari website Planet Gadget Sentosa jaya Undiknas adalah sebagai sarana digital yang dirancang untuk memperkenalkan toko kepada masyarakat luas, khususnya pecinta teknologi, dengan menampilkan beberapa produk gadget unggulan baru, website ini dibuat sederhana namun informatif agar pengunjung dapat dengan mudah mengenal identitas toko, melihat produk-produk pilihan yang di tawarkan, serta memperoleh informasi kontak dan alamat toko secara praktis sehingga menciptakan pengalaman awal yang baik dalam menjelajahi layanan dan produk yang tersedia<p> 
+<br> 
 
 
 
@@ -18,7 +19,10 @@
 
 
 <h3>Beranda.html</h3>
+<p>Beranda utama situs web planet gadget sentosa jaya undiknas berisi logo, nama merk, dan menu navigasi sederhana seperti "beranda", "produk", dan "tentang kami". produk unggulan terbaru seperti Samsung Galaxy S25 Ultra, ASUS ROG Phone 9, dan iPhone 16 Pro Max ditampilkan dengan gambar besar di bagian konten utama untuk menarik perhatian pengunjung. Desain sederhana dengan latar belakang abu abu terang membuat fokus tetap pada produk, di bagian bawah, ada informasi kontak, alamat, dan hak cipta untuk memberikan kesan profesional dan memudahkan pelanggan untuk terhubung dengan toko</p>
+
 <p>Fungsi</p>
+<p>Fungsi beranda pada website Planet Gadget sentosa jaya undiknas adalah sebagai halaman utama yang memperkenal identitas toko, menampilkan produk unggulan agar menarik perhatian pengunjung, memberikan navigasi sederhana menuju halaman lain seperti produk dan tentang kami, serta menyajikan informasi kontak dan alamat sehingga memudahkan pelanggan dalam mengenal, menjelajah dan berinteraksi langsung dengan toko secara online</p>
 <br>
 
 
