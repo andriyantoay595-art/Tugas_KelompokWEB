@@ -8,7 +8,7 @@
 <br> 
 
 <h2> Pendahuluan</h2>
-<p> </p>
+<p> </p><br> 
 
 
 
@@ -16,7 +16,7 @@
 <h2> Pembahasan </h2>
 <p> </p>
 
-<br>
+
 <h3>Beranda.html</h3>
 <p>Fungsi</p>
 <br>
