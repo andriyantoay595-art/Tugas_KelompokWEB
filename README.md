@@ -1,4 +1,6 @@
-<h1>LAPORAN</h1> <br> 
+<h1>LAPORAN</h1> <br>
+
+<h2>PRAKTIKUM HTML</h2>
 <ul>
   <li>Arefcy Theneven Saban (42430002) </li>
   <li>Rosan Kelvino Andre (42430025) </li>
