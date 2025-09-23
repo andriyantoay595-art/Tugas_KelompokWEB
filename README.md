@@ -54,7 +54,6 @@ Kemudian di bagian utama halaman berisi judul “TENTANG KAMI” terdapat dua pa
 </p>
 <p>Fungsi Syntax</p>
 <ul>
-  <li>&nbsp: spasi tambahan</li>
   <li>main: untuk menandai konten utama dari sebuah halaman web.</li>
   <li>article: untuk membungkus konten mandiri yang bisa berdiri sendiri dan masuk akal jika dipisahkan dari halaman utama.</li>
 </ul>
