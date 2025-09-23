@@ -2,7 +2,7 @@
 <ol>
   <li>Arefcy Theneven Saban (42430002) </li>
   <li>Rosan Kelvino Andre (42430025) </li>
-  <li>Yosua Theo </li>
+  <li>Yosua Theo Fraktus Michael Jagga Wali (42430006) </li>
   <li>I Made Obi Pranata (42430003</li>
 </ol>
 <br> 
@@ -31,7 +31,12 @@ Kemudian di bagian utama halaman berisi judul “TENTANG KAMI” terdapat dua pa
 </p>
 <br>
 <h3></h23>ROG.html  Iphone.html  Samsung.html</h3>
-<p>Ketiga file HTML ROG.html, iphone.html, samsung.html adalah halaman pada detail produk yang menampilkan informasi lengkap tentang masing-masing gadget unggulan. Setiap halaman memiliki tampilan yang selatar dengan latar abu-abu muda, header berisi logo dan nama toko, serta menu navigasi ke halaman lain. Bagian utama halaman menampilkan gambar produk berukuran besar, nama produk, harga, kolom input untuk memilih jumlah pembelian, dan tombol “Beli Sekarang”. Di bawahnya terdapat bagian “Tentang” yang berisi deskripsi produk, diikuti daftar spesifikasi teknis seperti sistem operasi, chipset, RAM, kamera, layar, baterai, dan fitur tambahan lain. Ketiga halaman ini berfungsi sebagai tempat pengguna melihat detail produk sebelum memutuskan untuk membeli.</p>
+<p>Ketiga file HTML ROG.html, iphone.html, samsung.html adalah halaman pada detail produk yang menampilkan informasi lengkap tentang masing-masing gadget unggulan. Setiap halaman memiliki tampilan yang selatar dengan latar abu-abu muda, header berisi logo dan nama toko, serta menu navigasi ke halaman lain. Bagian utama halaman menampilkan gambar produk berukuran besar, nama produk, harga, kolom input untuk memilih jumlah pembelian, dan tombol “Beli Sekarang”. Di bawahnya terdapat bagian “Tentang” yang berisi deskripsi produk, diikuti daftar spesifikasi teknis seperti sistem operasi, chipset, RAM, kamera, layar, baterai, dan fitur tambahan lain. Ketiga halaman ini berfungsi sebagai tempat pengguna melihat detail produk sebelum memutuskan untuk membeli.</p> <br>
+
+
+
+<h2>Kesimpulan </h2>
+<p> Kesimpulannya, project HTML ini berhasil bikin sebuah website toko handphone sederhana yang fungsinya jadi katalog online. Halamannya rapi, ada header, menu navigasi, daftar produk, sampai detail setiap produk lengkap dengan foto, harga, deskripsi, dan spesifikasi. Tampilan antarhalamannya konsisten, jadi gampang dipahami sama pengguna. Walaupun masih basic tanpa banyak CSS, website ini udah cukup buat jadi contoh media promosi online dan tempat calon pembeli lihat-lihat dulu sebelum mutusin beli.</p>
 
 
 
