@@ -14,7 +14,7 @@
 
 
 <h2> Pembahasan </h2>
-<p> </p>
+<p> Pada bab ini akan dibahas hasil pembuatan website toko handphone yang telah dirancang menggunakan HTML. Pembahasan mencakup struktur halaman, fungsi dari setiap bagian, serta keterkaitan antarhalaman yang membentuk sebuah katalog online sederhana. </p>
 
 
 <h3>Beranda.html</h3>
